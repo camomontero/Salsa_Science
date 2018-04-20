@@ -1,0 +1,2 @@
+# Salsa_Science
+The idea of this document is to understand the data collected from the client's assistance to the Salsa Colombiana workshops offered by Salsa Unicorns. Analyse the data, understand the trends and classify members into groups under certain criterion can give us a precise vision on where to move forward. This can help us to understand what the clients wants and in the marketing aspect we can offer them exactly what they are looking for.
